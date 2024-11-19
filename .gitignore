@@ -1,0 +1,9 @@
+# Data file not necessary for the repository
+src/data
+
+# Mac specific developer options
+.DS_Store
+
+# Cache files
+*.cpy
+*.pyc
